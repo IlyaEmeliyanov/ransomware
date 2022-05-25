@@ -1,0 +1,12 @@
+{
+    "people": [
+        {
+            "id": "00d41e76-dc44-11ec-8c3c-acde48001122",
+            "isEncrypted": true
+        },
+        {
+            "id": "08160136-dc44-11ec-a42f-acde48001122",
+            "isEncrypted": false
+        }
+    ]
+}
